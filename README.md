@@ -1,4 +1,4 @@
-# How to Win: a Data Exploration of Winning Matches from La Liga Matches Using FP-Growth
+# How to Win: a Data Exploration of Winning Matches from La Liga Using FP-Growth
 
 ## Description
 
