@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "how-to-win"
+version = "0.1.0"
+description = "This project involves analyzing data from La Liga, the top professional football division in Spain, to identify patterns in winning matches. By applying the FP-growth algorithm, a popular method for frequent pattern mining, the project aims to uncover insights into factors that contribute to successful outcomes for teams. The analysis includes data exploration and visualization to provide a comprehensive view of the patterns and trends within the dataset."
+authors = ["Lucca Augusto <lucca.aug@gmail.com>", "Lucca Augusto <lucca.aug@gmail.com>", "Lucca Augusto <lucca.aug@gmail.com>", ]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = "^1.21.0"
+matplotlib = "^3.4.2"
+pyfpgrowth = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
