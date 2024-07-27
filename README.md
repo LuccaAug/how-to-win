@@ -8,8 +8,6 @@ The analysis includes data exploration and visualization to provide a comprehens
 
 ## Installation
 
-### Option 1: Using Poetry
-
 To set up the project, follow these steps:
 
 1. **Install Poetry**
@@ -41,38 +39,6 @@ To set up the project, follow these steps:
    ```
 
    This step is necessary to ensure that the installed packages are available for use.
-
-### Option 2: Using pip
-
-1. **Create a Virtual Environment**
-
-   Create a virtual environment in the project directory:
-
-   ```sh
-   python -m venv venv
-   ```
-
-2. **Activate the Virtual Environment**
-
-   - On Windows:
-
-     ```sh
-     venv\Scripts\activate
-     ```
-
-   - On macOS and Linux:
-
-     ```sh
-     source venv/bin/activate
-     ```
-
-3. **Install Project Dependencies**
-
-   Install the dependencies using pip:
-
-   ```sh
-   pip install numpy matplotlib pyfpgrowth
-   ```
 
 ## License
 
